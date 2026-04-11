@@ -1,5 +1,5 @@
 {
-  "Name": "BigP3BCI Study P — Mainsah et al. 2025 (P300 visual speller)",
+  "Name": "Mainsah et al. 2025 — bigP3BCI: An Open, Diverse and Machine Learning Ready P300-based Brain-Computer Interface Dataset (Study P)",
   "BIDSVersion": "1.9.0",
   "HEDVersion": "8.4.0",
   "DatasetType": "derivative",
