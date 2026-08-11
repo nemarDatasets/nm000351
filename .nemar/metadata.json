@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "Mainsah et al. 2025 — bigP3BCI: An Open, Diverse and Machine Learning Ready P300-based Brain-Computer Interface Dataset (Study P)",
+  "description": "BigP3BCI Study P is a P300-based brain-computer interface dataset comprising EEG recordings from 19 ALS subjects across 2 sessions each, using a 9x8 character grid spelling paradigm. The dataset contains 32-channel EEG data sampled at 256 Hz with target and non-target event classifications, designed for machine learning model development and BCI performance evaluation. This derivative dataset is part of the larger BigP3BCI collection, the largest public P300 BCI dataset with recordings from approximately 267 subjects across 20 studies.",
+  "methods_description": "EEG data were acquired using a g.USBamp amplifier (g.tec) with 32 channels positioned according to the standard 10-20 montage at a sampling rate of 256 Hz. The experimental paradigm employed a 9x8 predictive/non-predictive spelling grid with visual stimulus presentation. Line frequency was 60 Hz. Each subject completed 2 sessions with target and non-target event classifications. Feature extraction utilized P300 event-related potential detection methods.",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
   "authors": {
     "Boyla Mainsah": {},
     "Chance Fleeting": {
@@ -15,54 +20,6 @@
     "Eric Sellers": {},
     "Leslie Collins": {}
   },
-  "related_identifiers": [
-    {
-      "identifier": "10.13026/0byy-ry86",
-      "identifier_type": "DOI",
-      "relation_type": "IsDerivedFrom"
-    },
-    {
-      "identifier": "https://github.com/nemarDatasets/nm000351",
-      "identifier_type": "URL",
-      "relation_type": "IsDescribedBy"
-    },
-    {
-      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000351",
-      "identifier_type": "URL",
-      "relation_type": "IsDescribedBy"
-    },
-    {
-      "identifier": "10.21105/joss.01896",
-      "identifier_type": "DOI",
-      "relation_type": "References"
-    },
-    {
-      "identifier": "10.1038/s41597-019-0104-8",
-      "identifier_type": "DOI",
-      "relation_type": "References"
-    }
-  ],
-  "title": "Mainsah et al. 2025 — bigP3BCI: An Open, Diverse and Machine Learning Ready P300-based Brain-Computer Interface Dataset (Study P)",
-  "license": "CC-BY-4.0",
-  "dataset_type": "derivative",
-  "resource_type_general": "Dataset",
-  "modalities": [
-    "eeg"
-  ],
-  "resource_type_specific": "EEG Dataset",
-  "sizes": [
-    "1.6 GB (224 files)"
-  ],
-  "formats": [
-    ".bdf",
-    ".json",
-    ".md",
-    ".tsv",
-    ".yaml",
-    ".yml"
-  ],
-  "description": "BigP3BCI Study P is a P300-based brain-computer interface dataset comprising EEG recordings from 19 healthy subjects across 2 sessions each, using a 9x8 character grid spelling paradigm. The dataset contains 32-channel EEG data sampled at 256 Hz with target and non-target event classifications, designed for machine learning model development and BCI performance evaluation. This derivative dataset is part of the larger BigP3BCI collection, the largest public P300 BCI dataset with recordings from approximately 267 subjects across 20 studies.",
-  "methods_description": "EEG data were acquired using a g.USBamp amplifier (g.tec) with 32 channels positioned according to the standard 10-20 montage at a sampling rate of 256 Hz. The experimental paradigm employed a 9x8 predictive/non-predictive spelling grid with visual stimulus presentation. Line frequency was 60 Hz. Each subject completed 2 sessions with target and non-target event classifications. Feature extraction utilized P300 event-related potential detection methods.",
   "keywords": [
     {
       "term": "EEG"
@@ -77,6 +34,12 @@
       "term": "speller paradigm"
     },
     {
+      "term": "visual"
+    },
+    {
+      "term": "perception"
+    },
+    {
       "term": "Event-Related Potentials, P300",
       "subject_scheme": "MeSH",
       "scheme_uri": "https://id.nlm.nih.gov/mesh/",
@@ -86,5 +49,49 @@
       "term": "machine learning"
     }
   ],
-  "source_hash": "6da58b638da35eeb5b992957752f4b2c1a5f589b0512e252e2478de39c19c1cf"
+  "related_identifiers": [
+    {
+      "identifier": "10.13026/0byy-ry86",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000351",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0104-8",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000351",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "resource_type_general": "Dataset",
+  "resource_type_specific": "EEG Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "sizes": [
+    "5.3 GB (452 files)"
+  ],
+  "formats": [
+    ".bdf",
+    ".edf",
+    ".json",
+    ".md",
+    ".tsv",
+    ".yaml",
+    ".yml"
+  ],
+  "source_hash": "2189ebbf99f984a47e350af26da84e028a8a6acd53cee42a979e26aec9e9714d"
 }
