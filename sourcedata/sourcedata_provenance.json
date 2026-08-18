@@ -14,1142 +14,1371 @@
   {
    "file": "P_01/SE001/Test/PredictiveSpelling/P_01_SE001_PredictiveSpelling_Test07.edf",
    "bytes": 27123414,
-   "sha256": "ccd97b05595ebbe7bdaf275a6bf16abf6e0ad3af398f516a425e648192b4ce28"
+   "sha256": "ccd97b05595ebbe7bdaf275a6bf16abf6e0ad3af398f516a425e648192b4ce28",
+   "subject": "1"
   },
   {
    "file": "P_01/SE001/Train/PredictiveSpelling/P_01_SE001_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "e23c117961804e629bc8322b738c82188f258e7df03c3fbd9cfbe72684becaa5"
+   "sha256": "e23c117961804e629bc8322b738c82188f258e7df03c3fbd9cfbe72684becaa5",
+   "subject": "1"
   },
   {
    "file": "P_01/SE001/Train/PredictiveSpelling/P_01_SE001_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "0f55d9e980bfbdd5cc60d0d95d9a16085e1e580897dce76847667d51d8365be2"
+   "sha256": "0f55d9e980bfbdd5cc60d0d95d9a16085e1e580897dce76847667d51d8365be2",
+   "subject": "1"
   },
   {
    "file": "P_01/SE001/Train/PredictiveSpelling/P_01_SE001_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "dd7e142bf4d4f60d42322000829f7b0b18c3d49f6f5fbc0fece9cdb77b16bb80"
+   "sha256": "dd7e142bf4d4f60d42322000829f7b0b18c3d49f6f5fbc0fece9cdb77b16bb80",
+   "subject": "1"
   },
   {
    "file": "P_01/SE001/Train/PredictiveSpelling/P_01_SE001_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "b7dc0b44761c2bd917c58d526d23cb5a1bcf953337a3c069a133ba5a9fde09fa"
+   "sha256": "b7dc0b44761c2bd917c58d526d23cb5a1bcf953337a3c069a133ba5a9fde09fa",
+   "subject": "1"
   },
   {
    "file": "P_01/SE001/Train/PredictiveSpelling/P_01_SE001_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "d6f19494c48bcfb850a323503a56289d783da74f5452501a3d598839c7df5e95"
+   "sha256": "d6f19494c48bcfb850a323503a56289d783da74f5452501a3d598839c7df5e95",
+   "subject": "1"
   },
   {
    "file": "P_01/SE002/Test/NonpredictiveSpelling/P_01_SE002_NonpredictiveSpelling_Test01.edf",
    "bytes": 44808918,
-   "sha256": "0be9c9e2e77cee5b5089f55c4d595f751f2657452a968df9dcb8384acb37d5e4"
+   "sha256": "0be9c9e2e77cee5b5089f55c4d595f751f2657452a968df9dcb8384acb37d5e4",
+   "subject": "1"
   },
   {
    "file": "P_01/SE002/Train/NonpredictiveSpelling/P_01_SE002_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "121da3e1e65e460296b08d5960deac5f24d9a56a4bad5e49fe7a1c34ba3b1f2c"
+   "sha256": "121da3e1e65e460296b08d5960deac5f24d9a56a4bad5e49fe7a1c34ba3b1f2c",
+   "subject": "1"
   },
   {
    "file": "P_01/SE002/Train/NonpredictiveSpelling/P_01_SE002_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "66b18093a7b078725281049587e433ca77273e576c870a3ecd23612a957095cb"
+   "sha256": "66b18093a7b078725281049587e433ca77273e576c870a3ecd23612a957095cb",
+   "subject": "1"
   },
   {
    "file": "P_01/SE002/Train/NonpredictiveSpelling/P_01_SE002_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "7bd2eaa9ba62fa5034b1ba6c06b2f1a6c018bcea5080157f32a1444706729dd7"
+   "sha256": "7bd2eaa9ba62fa5034b1ba6c06b2f1a6c018bcea5080157f32a1444706729dd7",
+   "subject": "1"
   },
   {
    "file": "P_01/SE002/Train/NonpredictiveSpelling/P_01_SE002_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "ee0522395e0a8d035440146d0155fd8c092f916df8ab3d9d5ad9c3e179f3a364"
+   "sha256": "ee0522395e0a8d035440146d0155fd8c092f916df8ab3d9d5ad9c3e179f3a364",
+   "subject": "1"
   },
   {
    "file": "P_01/SE002/Train/NonpredictiveSpelling/P_01_SE002_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "314fc2892c7a98fcfe2d8e7f75d88fb73143c7971ff102e6f4b36b204e727418"
+   "sha256": "314fc2892c7a98fcfe2d8e7f75d88fb73143c7971ff102e6f4b36b204e727418",
+   "subject": "1"
   },
   {
    "file": "P_02/SE001/Test/PredictiveSpelling/P_02_SE001_PredictiveSpelling_Test01.edf",
    "bytes": 32376534,
-   "sha256": "3cfe69e822898a2a0cecf597c863b64942708b3bde880289d575b42138a6be20"
+   "sha256": "3cfe69e822898a2a0cecf597c863b64942708b3bde880289d575b42138a6be20",
+   "subject": "2"
   },
   {
    "file": "P_02/SE001/Train/PredictiveSpelling/P_02_SE001_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "abbfa5cef667b528aa9ce912e958ebd05d7c8259b0822dde3c8e3221d9b523df"
+   "sha256": "abbfa5cef667b528aa9ce912e958ebd05d7c8259b0822dde3c8e3221d9b523df",
+   "subject": "2"
   },
   {
    "file": "P_02/SE001/Train/PredictiveSpelling/P_02_SE001_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "4f390117542778ebbc2016178b02a1eafa3270456d62124142554b5f1492ef11"
+   "sha256": "4f390117542778ebbc2016178b02a1eafa3270456d62124142554b5f1492ef11",
+   "subject": "2"
   },
   {
    "file": "P_02/SE001/Train/PredictiveSpelling/P_02_SE001_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "c9b4fcb7bee38c844fa8ee99b1d94883bc202e9610ff0c0fd0798336ac36551a"
+   "sha256": "c9b4fcb7bee38c844fa8ee99b1d94883bc202e9610ff0c0fd0798336ac36551a",
+   "subject": "2"
   },
   {
    "file": "P_02/SE001/Train/PredictiveSpelling/P_02_SE001_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "210e1ba067a4cd698d25147b19d5a21c513e11149f9a12bac36d59af3e4062fe"
+   "sha256": "210e1ba067a4cd698d25147b19d5a21c513e11149f9a12bac36d59af3e4062fe",
+   "subject": "2"
   },
   {
    "file": "P_02/SE001/Train/PredictiveSpelling/P_02_SE001_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "577cb958bc1b78c6fbfe9ec61194b725e6c0e1902e7413a5e7456e3ce68cfc26"
+   "sha256": "577cb958bc1b78c6fbfe9ec61194b725e6c0e1902e7413a5e7456e3ce68cfc26",
+   "subject": "2"
   },
   {
    "file": "P_02/SE002/Test/NonpredictiveSpelling/P_02_SE002_NonpredictiveSpelling_Test01.edf",
    "bytes": 63019734,
-   "sha256": "e7ae5ba739f1cf382fa0c1eadfcca0a92b7c05a0b3ca82becadbb4deecf25453"
+   "sha256": "e7ae5ba739f1cf382fa0c1eadfcca0a92b7c05a0b3ca82becadbb4deecf25453",
+   "subject": "2"
   },
   {
    "file": "P_02/SE002/Train/NonpredictiveSpelling/P_02_SE002_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "9842de277c24f132e2a7d11b2b1bdba2a99a6263bad480328203fcf5bd4d9102"
+   "sha256": "9842de277c24f132e2a7d11b2b1bdba2a99a6263bad480328203fcf5bd4d9102",
+   "subject": "2"
   },
   {
    "file": "P_02/SE002/Train/NonpredictiveSpelling/P_02_SE002_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "7a28717c68bfb2eb7fb09f284538c8a7cb9704bb3ca8b70b464081d44d11ac28"
+   "sha256": "7a28717c68bfb2eb7fb09f284538c8a7cb9704bb3ca8b70b464081d44d11ac28",
+   "subject": "2"
   },
   {
    "file": "P_02/SE002/Train/NonpredictiveSpelling/P_02_SE002_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "66ee8e0b8eafd03fca72850d9ca589bb32d2ee9ec25a5abdfdc1ff18e7ec4616"
+   "sha256": "66ee8e0b8eafd03fca72850d9ca589bb32d2ee9ec25a5abdfdc1ff18e7ec4616",
+   "subject": "2"
   },
   {
    "file": "P_02/SE002/Train/NonpredictiveSpelling/P_02_SE002_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "6c1e5be0a9da6ac0fa5ef155a9e21d6a4832a91626fbf726dd2a055b864ce31e"
+   "sha256": "6c1e5be0a9da6ac0fa5ef155a9e21d6a4832a91626fbf726dd2a055b864ce31e",
+   "subject": "2"
   },
   {
    "file": "P_02/SE002/Train/NonpredictiveSpelling/P_02_SE002_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "0a3a598477007255f6fcb58df91d25226f4c8463925af31536cc3fef583fbe77"
+   "sha256": "0a3a598477007255f6fcb58df91d25226f4c8463925af31536cc3fef583fbe77",
+   "subject": "2"
   },
   {
    "file": "P_03/SE001/Test/NonpredictiveSpelling/P_03_SE001_NonpredictiveSpelling_Test02.edf",
    "bytes": 57766614,
-   "sha256": "265d385192b151d1844c670535409b2673b569b5180ca8a361a809cb2ca2214f"
+   "sha256": "265d385192b151d1844c670535409b2673b569b5180ca8a361a809cb2ca2214f",
+   "subject": "3"
   },
   {
    "file": "P_03/SE001/Train/NonpredictiveSpelling/P_03_SE001_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "83b2c4a6f9b3b4cd18dbbd9c020a48db95f049e65226174bca23dfaa89576f19"
+   "sha256": "83b2c4a6f9b3b4cd18dbbd9c020a48db95f049e65226174bca23dfaa89576f19",
+   "subject": "3"
   },
   {
    "file": "P_03/SE001/Train/NonpredictiveSpelling/P_03_SE001_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "e95f8afeb5dc71c916bc8c4611993af2eae2aad54959a4fbc9aab29c12a89e76"
+   "sha256": "e95f8afeb5dc71c916bc8c4611993af2eae2aad54959a4fbc9aab29c12a89e76",
+   "subject": "3"
   },
   {
    "file": "P_03/SE001/Train/NonpredictiveSpelling/P_03_SE001_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "a5a38787293729148967e52226ea26fc27b530f7eb7b7c72161884451695189e"
+   "sha256": "a5a38787293729148967e52226ea26fc27b530f7eb7b7c72161884451695189e",
+   "subject": "3"
   },
   {
    "file": "P_03/SE001/Train/NonpredictiveSpelling/P_03_SE001_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "d1a3773ed5060fd319c4651e7fe2f65b3594e6d6eaf5111edd318ed65bd0f00a"
+   "sha256": "d1a3773ed5060fd319c4651e7fe2f65b3594e6d6eaf5111edd318ed65bd0f00a",
+   "subject": "3"
   },
   {
    "file": "P_03/SE001/Train/NonpredictiveSpelling/P_03_SE001_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "032781e1b909d3e8fa5fe6a07cb67fd24b285d1296decd8e484740fec953f96a"
+   "sha256": "032781e1b909d3e8fa5fe6a07cb67fd24b285d1296decd8e484740fec953f96a",
+   "subject": "3"
   },
   {
    "file": "P_03/SE002/Test/PredictiveSpelling/P_03_SE002_PredictiveSpelling_Test01.edf",
    "bytes": 40256214,
-   "sha256": "d9d4b1b4339009d4f117cd4b44c769381480253c6523bf308dee1c9f1fd264be"
+   "sha256": "d9d4b1b4339009d4f117cd4b44c769381480253c6523bf308dee1c9f1fd264be",
+   "subject": "3"
   },
   {
    "file": "P_03/SE002/Train/PredictiveSpelling/P_03_SE002_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "81fefd03561ff72809b35361ffd13b3ef96a4d5fa7e9b3b0351ca7acca41fd22"
+   "sha256": "81fefd03561ff72809b35361ffd13b3ef96a4d5fa7e9b3b0351ca7acca41fd22",
+   "subject": "3"
   },
   {
    "file": "P_03/SE002/Train/PredictiveSpelling/P_03_SE002_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "76f2fb8b29b9abc74e4ac3e9f3ba0ffea2b948616672c44a52d463af1b795382"
+   "sha256": "76f2fb8b29b9abc74e4ac3e9f3ba0ffea2b948616672c44a52d463af1b795382",
+   "subject": "3"
   },
   {
    "file": "P_03/SE002/Train/PredictiveSpelling/P_03_SE002_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "67e00fb521342887ebbeb5563974c430c8ea8fe269caeabc6fa9cd9c82c355dd"
+   "sha256": "67e00fb521342887ebbeb5563974c430c8ea8fe269caeabc6fa9cd9c82c355dd",
+   "subject": "3"
   },
   {
    "file": "P_03/SE002/Train/PredictiveSpelling/P_03_SE002_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "72a375dafab9a1644138943164bcc7cad2244c77d2ceb72b1f74d4de540f5512"
+   "sha256": "72a375dafab9a1644138943164bcc7cad2244c77d2ceb72b1f74d4de540f5512",
+   "subject": "3"
   },
   {
    "file": "P_03/SE002/Train/PredictiveSpelling/P_03_SE002_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "dcc71e6cd919f1c9964f461b1886ddd328d518e96ddcc8e26710a534818bc828"
+   "sha256": "dcc71e6cd919f1c9964f461b1886ddd328d518e96ddcc8e26710a534818bc828",
+   "subject": "3"
   },
   {
    "file": "P_04/SE001/Test/PredictiveSpelling/P_04_SE001_PredictiveSpelling_Test02.edf",
    "bytes": 80880342,
-   "sha256": "cf3ab11608ff10e6c9a79aba5cf74e8863c5b105db1cb50b599ccb6cff59c699"
+   "sha256": "cf3ab11608ff10e6c9a79aba5cf74e8863c5b105db1cb50b599ccb6cff59c699",
+   "subject": "4"
   },
   {
    "file": "P_04/SE001/Train/PredictiveSpelling/P_04_SE001_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "c31de5144844442f83285b2e408143347a8b347f294db268b2c4241aaae37f0c"
+   "sha256": "c31de5144844442f83285b2e408143347a8b347f294db268b2c4241aaae37f0c",
+   "subject": "4"
   },
   {
    "file": "P_04/SE001/Train/PredictiveSpelling/P_04_SE001_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "08adb10eba9518a1e81a1fcce133f7b820ee4f46b92c10cdc5d218a0fb98a45a"
+   "sha256": "08adb10eba9518a1e81a1fcce133f7b820ee4f46b92c10cdc5d218a0fb98a45a",
+   "subject": "4"
   },
   {
    "file": "P_04/SE001/Train/PredictiveSpelling/P_04_SE001_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "f1b00cd4a1cdd93c7c356193b5888f086b126b3adde9188523593e720a8b4628"
+   "sha256": "f1b00cd4a1cdd93c7c356193b5888f086b126b3adde9188523593e720a8b4628",
+   "subject": "4"
   },
   {
    "file": "P_04/SE001/Train/PredictiveSpelling/P_04_SE001_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "6ef37f0aa61b91313c65bae53ef026c869b09f7c9187789c85c7605dc1fed4f7"
+   "sha256": "6ef37f0aa61b91313c65bae53ef026c869b09f7c9187789c85c7605dc1fed4f7",
+   "subject": "4"
   },
   {
    "file": "P_04/SE001/Train/PredictiveSpelling/P_04_SE001_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "ba4f8f892da2cd0e0e8bfd27de4754cdcf64cbb5396289bea1ca5976d5cf1f40"
+   "sha256": "ba4f8f892da2cd0e0e8bfd27de4754cdcf64cbb5396289bea1ca5976d5cf1f40",
+   "subject": "4"
   },
   {
    "file": "P_04/SE002/Test/NonpredictiveSpelling/P_04_SE002_NonpredictiveSpelling_Test01.edf",
    "bytes": 79829718,
-   "sha256": "f4aa4d04ba091517616693096e1aeabd56a827c5c45b747cf708f7b3e2615218"
+   "sha256": "f4aa4d04ba091517616693096e1aeabd56a827c5c45b747cf708f7b3e2615218",
+   "subject": "4"
   },
   {
    "file": "P_04/SE002/Train/NonpredictiveSpelling/P_04_SE002_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "1da3e2426e952de8df9cb0113ee25b7477874f3f8ab72c25aa225fcceb801629"
+   "sha256": "1da3e2426e952de8df9cb0113ee25b7477874f3f8ab72c25aa225fcceb801629",
+   "subject": "4"
   },
   {
    "file": "P_04/SE002/Train/NonpredictiveSpelling/P_04_SE002_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "6cd7e42b4d9ce581baac45b74568832c33a6cbd8cf41164242bce1aeb6371faa"
+   "sha256": "6cd7e42b4d9ce581baac45b74568832c33a6cbd8cf41164242bce1aeb6371faa",
+   "subject": "4"
   },
   {
    "file": "P_04/SE002/Train/NonpredictiveSpelling/P_04_SE002_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "32855da44e1d3dd88d4ca94e417465b69f7d83df5829d8a999ace8cb34a81bbf"
+   "sha256": "32855da44e1d3dd88d4ca94e417465b69f7d83df5829d8a999ace8cb34a81bbf",
+   "subject": "4"
   },
   {
    "file": "P_04/SE002/Train/NonpredictiveSpelling/P_04_SE002_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "5218340e479403f5e8112d03a3b47c99b7ff2ae0ae0272851f7e8f1e0207f23e"
+   "sha256": "5218340e479403f5e8112d03a3b47c99b7ff2ae0ae0272851f7e8f1e0207f23e",
+   "subject": "4"
   },
   {
    "file": "P_04/SE002/Train/NonpredictiveSpelling/P_04_SE002_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "9444a7c1929a10450597127a839e5bc37f8982663c8fbe7ac5416b0539662dec"
+   "sha256": "9444a7c1929a10450597127a839e5bc37f8982663c8fbe7ac5416b0539662dec",
+   "subject": "4"
   },
   {
    "file": "P_05/SE001/Test/PredictiveSpelling/P_05_SE001_PredictiveSpelling_Test02.edf",
    "bytes": 38592726,
-   "sha256": "66a38e9ccb1d644dfad276818e48c00462410ad40f4354ce7cbf831017e2058e"
+   "sha256": "66a38e9ccb1d644dfad276818e48c00462410ad40f4354ce7cbf831017e2058e",
+   "subject": "5"
   },
   {
    "file": "P_05/SE001/Train/PredictiveSpelling/P_05_SE001_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "ed68189759b957fc8b68f224b5b8fb091e0e966ec58411f0e4202bb5b41451d2"
+   "sha256": "ed68189759b957fc8b68f224b5b8fb091e0e966ec58411f0e4202bb5b41451d2",
+   "subject": "5"
   },
   {
    "file": "P_05/SE001/Train/PredictiveSpelling/P_05_SE001_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "6a34f1e76e8ff1bce8f3c1013d1f8ce89c69ae5d01b97220cad1004daf211a24"
+   "sha256": "6a34f1e76e8ff1bce8f3c1013d1f8ce89c69ae5d01b97220cad1004daf211a24",
+   "subject": "5"
   },
   {
    "file": "P_05/SE001/Train/PredictiveSpelling/P_05_SE001_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "8776cad39e3076845e7501d0e15f5956690be2926b7f5bc34dcb98018841d3f7"
+   "sha256": "8776cad39e3076845e7501d0e15f5956690be2926b7f5bc34dcb98018841d3f7",
+   "subject": "5"
   },
   {
    "file": "P_05/SE001/Train/PredictiveSpelling/P_05_SE001_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "ec4e54299f2e1564aaca064d36ccbf4cb0eda9ec95db2e4363763d75fcf62a2b"
+   "sha256": "ec4e54299f2e1564aaca064d36ccbf4cb0eda9ec95db2e4363763d75fcf62a2b",
+   "subject": "5"
   },
   {
    "file": "P_05/SE001/Train/PredictiveSpelling/P_05_SE001_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "86b967ba0b68764ec8cc4202f3bd1eb32cf7579aba7a1035f99c405b51be60a5"
+   "sha256": "86b967ba0b68764ec8cc4202f3bd1eb32cf7579aba7a1035f99c405b51be60a5",
+   "subject": "5"
   },
   {
    "file": "P_05/SE002/Test/NonpredictiveSpelling/P_05_SE002_NonpredictiveSpelling_Test01.edf",
    "bytes": 60393174,
-   "sha256": "52bc7cc8a41e0602cae74cc80d1e992a49a1c9e044750035b672d76f9e06dba5"
+   "sha256": "52bc7cc8a41e0602cae74cc80d1e992a49a1c9e044750035b672d76f9e06dba5",
+   "subject": "5"
   },
   {
    "file": "P_05/SE002/Train/NonpredictiveSpelling/P_05_SE002_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "c9fc9d954e0e258271ce45cf0a1d91ea8dab782959730e35738bdcaf15ac129e"
+   "sha256": "c9fc9d954e0e258271ce45cf0a1d91ea8dab782959730e35738bdcaf15ac129e",
+   "subject": "5"
   },
   {
    "file": "P_05/SE002/Train/NonpredictiveSpelling/P_05_SE002_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "2033b95aea7a9b4604eb43c919e50f7072ebd0c2fb300b01479a5cc278b0b552"
+   "sha256": "2033b95aea7a9b4604eb43c919e50f7072ebd0c2fb300b01479a5cc278b0b552",
+   "subject": "5"
   },
   {
    "file": "P_05/SE002/Train/NonpredictiveSpelling/P_05_SE002_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "c7989b9d7ce76252d87439314e934cf449d1cdda789b42e4d479fc9e2de1505d"
+   "sha256": "c7989b9d7ce76252d87439314e934cf449d1cdda789b42e4d479fc9e2de1505d",
+   "subject": "5"
   },
   {
    "file": "P_05/SE002/Train/NonpredictiveSpelling/P_05_SE002_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "6f4a06b5bb77e3ce3039d82602f0111cd0b17097c00ad740333345d0376f3460"
+   "sha256": "6f4a06b5bb77e3ce3039d82602f0111cd0b17097c00ad740333345d0376f3460",
+   "subject": "5"
   },
   {
    "file": "P_05/SE002/Train/NonpredictiveSpelling/P_05_SE002_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "7684a56746d7fa11d62840bd63be6a85a7f733711209caa3c65d2c8d890d0404"
+   "sha256": "7684a56746d7fa11d62840bd63be6a85a7f733711209caa3c65d2c8d890d0404",
+   "subject": "5"
   },
   {
    "file": "P_06/SE001/Test/PredictiveSpelling/P_06_SE001_PredictiveSpelling_Test01.edf",
    "bytes": 31501014,
-   "sha256": "8f45beb44b1449e5c90a08ec94b4f67951def29f4bcae5416c39b585b5499998"
+   "sha256": "8f45beb44b1449e5c90a08ec94b4f67951def29f4bcae5416c39b585b5499998",
+   "subject": "6"
   },
   {
    "file": "P_06/SE001/Train/PredictiveSpelling/P_06_SE001_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "26db9389c5e262ef719acf43a21f90697078f7ca5dcecc9ccf5791b3640fc830"
+   "sha256": "26db9389c5e262ef719acf43a21f90697078f7ca5dcecc9ccf5791b3640fc830",
+   "subject": "6"
   },
   {
    "file": "P_06/SE001/Train/PredictiveSpelling/P_06_SE001_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "dd245fc83a3a23145073cec490e2a113a917541231b35624afedc8f9ee153af5"
+   "sha256": "dd245fc83a3a23145073cec490e2a113a917541231b35624afedc8f9ee153af5",
+   "subject": "6"
   },
   {
    "file": "P_06/SE001/Train/PredictiveSpelling/P_06_SE001_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "930241768f2fe10b6400f74cfa3870010790e77272c3ba91a88080c394a4747a"
+   "sha256": "930241768f2fe10b6400f74cfa3870010790e77272c3ba91a88080c394a4747a",
+   "subject": "6"
   },
   {
    "file": "P_06/SE001/Train/PredictiveSpelling/P_06_SE001_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "805e42b4e67030d217adba1ec391780a089a390400b2721f708db2c5b01c7be5"
+   "sha256": "805e42b4e67030d217adba1ec391780a089a390400b2721f708db2c5b01c7be5",
+   "subject": "6"
   },
   {
    "file": "P_06/SE001/Train/PredictiveSpelling/P_06_SE001_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "b3bf4d1a2499444dc8d13f31fb94789c6868188eb2171a2e5dc4f6ccd96fa51c"
+   "sha256": "b3bf4d1a2499444dc8d13f31fb94789c6868188eb2171a2e5dc4f6ccd96fa51c",
+   "subject": "6"
   },
   {
    "file": "P_06/SE002/Test/NonpredictiveSpelling/P_06_SE002_NonpredictiveSpelling_Test01.edf",
    "bytes": 50762454,
-   "sha256": "b9f1576ff33aaa702c2ab36407eed6380c8fc49ab157912e3afab22dd63de93b"
+   "sha256": "b9f1576ff33aaa702c2ab36407eed6380c8fc49ab157912e3afab22dd63de93b",
+   "subject": "6"
   },
   {
    "file": "P_06/SE002/Train/NonpredictiveSpelling/P_06_SE002_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "79b671b8676a8f6fb7dc0b236d79e552d76daa06e85a128c594adcb36e5cbcbf"
+   "sha256": "79b671b8676a8f6fb7dc0b236d79e552d76daa06e85a128c594adcb36e5cbcbf",
+   "subject": "6"
   },
   {
    "file": "P_06/SE002/Train/NonpredictiveSpelling/P_06_SE002_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "ecf75cad2c423d39b227d6ef8aab57d980c7c90150e80cd40727cf7706dfc851"
+   "sha256": "ecf75cad2c423d39b227d6ef8aab57d980c7c90150e80cd40727cf7706dfc851",
+   "subject": "6"
   },
   {
    "file": "P_06/SE002/Train/NonpredictiveSpelling/P_06_SE002_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "9acb52731c81c0ad4dbd65d5df096a06418a63e35029a2925d4aab279571d8a2"
+   "sha256": "9acb52731c81c0ad4dbd65d5df096a06418a63e35029a2925d4aab279571d8a2",
+   "subject": "6"
   },
   {
    "file": "P_06/SE002/Train/NonpredictiveSpelling/P_06_SE002_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "a4ffbeda5817f4c72bc31f3b488599e940a0d930743f07173d0dcb53b0fc1c09"
+   "sha256": "a4ffbeda5817f4c72bc31f3b488599e940a0d930743f07173d0dcb53b0fc1c09",
+   "subject": "6"
   },
   {
    "file": "P_06/SE002/Train/NonpredictiveSpelling/P_06_SE002_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "90713f423b9f4dfe297e01ffa6007788dce7d84b064d02dca35cbb85bc50f358"
+   "sha256": "90713f423b9f4dfe297e01ffa6007788dce7d84b064d02dca35cbb85bc50f358",
+   "subject": "6"
   },
   {
    "file": "P_07/SE001/Test/NonpredictiveSpelling/P_07_SE001_NonpredictiveSpelling_Test01.edf",
    "bytes": 64070358,
-   "sha256": "222c4c4f9baa85c7500cd30ca228d7eca02f7deb30cef3fb5418dcffb85e2482"
+   "sha256": "222c4c4f9baa85c7500cd30ca228d7eca02f7deb30cef3fb5418dcffb85e2482",
+   "subject": "7"
   },
   {
    "file": "P_07/SE001/Train/NonpredictiveSpelling/P_07_SE001_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "551923aac09b2cb547e6cddead7b1e4feaf12731f98e725c2be78dfaccbc566d"
+   "sha256": "551923aac09b2cb547e6cddead7b1e4feaf12731f98e725c2be78dfaccbc566d",
+   "subject": "7"
   },
   {
    "file": "P_07/SE001/Train/NonpredictiveSpelling/P_07_SE001_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "bd44efaff3ce035b7eb51a6f06b330762912e000265db17bab28e6ee824bf9e6"
+   "sha256": "bd44efaff3ce035b7eb51a6f06b330762912e000265db17bab28e6ee824bf9e6",
+   "subject": "7"
   },
   {
    "file": "P_07/SE001/Train/NonpredictiveSpelling/P_07_SE001_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "609004630cf6c7e65803b87f8d3bf75691c9fc0ea3aead82dbfb6f66f88aed1c"
+   "sha256": "609004630cf6c7e65803b87f8d3bf75691c9fc0ea3aead82dbfb6f66f88aed1c",
+   "subject": "7"
   },
   {
    "file": "P_07/SE001/Train/NonpredictiveSpelling/P_07_SE001_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "dcd016cb2ce0c3f8952873d5ea93314f16aa8e3fba39e10a3c5306d4050ac02e"
+   "sha256": "dcd016cb2ce0c3f8952873d5ea93314f16aa8e3fba39e10a3c5306d4050ac02e",
+   "subject": "7"
   },
   {
    "file": "P_07/SE001/Train/NonpredictiveSpelling/P_07_SE001_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "94767efaf77a61caf48c3409abe00f23ee298e2473cde813a3614045c8dce78e"
+   "sha256": "94767efaf77a61caf48c3409abe00f23ee298e2473cde813a3614045c8dce78e",
+   "subject": "7"
   },
   {
    "file": "P_07/SE002/Test/PredictiveSpelling/P_07_SE002_PredictiveSpelling_Test03.edf",
    "bytes": 36754134,
-   "sha256": "49b61f155f890b35bec4225e37eaee9a25662a1cae9037bb3ffb905b6c517e61"
+   "sha256": "49b61f155f890b35bec4225e37eaee9a25662a1cae9037bb3ffb905b6c517e61",
+   "subject": "7"
   },
   {
    "file": "P_07/SE002/Train/PredictiveSpelling/P_07_SE002_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "e7b8285f5e62936a8a6645cc519c65429e8ac0d6223cf4931401ec0339d1eb0f"
+   "sha256": "e7b8285f5e62936a8a6645cc519c65429e8ac0d6223cf4931401ec0339d1eb0f",
+   "subject": "7"
   },
   {
    "file": "P_07/SE002/Train/PredictiveSpelling/P_07_SE002_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "11edf013e9ea42206ddc9a2877623766eb944feea4190d383d8619fee5c20f3f"
+   "sha256": "11edf013e9ea42206ddc9a2877623766eb944feea4190d383d8619fee5c20f3f",
+   "subject": "7"
   },
   {
    "file": "P_07/SE002/Train/PredictiveSpelling/P_07_SE002_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "4504661a4062e0fe919fa872885dd7215fd4e376f3a6d79b9b9d70cf404fcd3b"
+   "sha256": "4504661a4062e0fe919fa872885dd7215fd4e376f3a6d79b9b9d70cf404fcd3b",
+   "subject": "7"
   },
   {
    "file": "P_07/SE002/Train/PredictiveSpelling/P_07_SE002_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "3c8cbde1dbd3bcc443a2b1ad11347519b86e142ae655d02154bfa94cc6bd3953"
+   "sha256": "3c8cbde1dbd3bcc443a2b1ad11347519b86e142ae655d02154bfa94cc6bd3953",
+   "subject": "7"
   },
   {
    "file": "P_07/SE002/Train/PredictiveSpelling/P_07_SE002_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "89e066b73dfec8b7dc3c34ea26911f2e38bd2e5d7691d4a67c0a4ed8c0d4bae2"
+   "sha256": "89e066b73dfec8b7dc3c34ea26911f2e38bd2e5d7691d4a67c0a4ed8c0d4bae2",
+   "subject": "7"
   },
   {
    "file": "P_08/SE001/Test/NonpredictiveSpelling/P_08_SE001_NonpredictiveSpelling_Test01.edf",
    "bytes": 40606422,
-   "sha256": "884defb4ed859efe7116df45634d4c9117a9f3c6f7cfaf99de3a4b33e031b9a3"
+   "sha256": "884defb4ed859efe7116df45634d4c9117a9f3c6f7cfaf99de3a4b33e031b9a3",
+   "subject": "8"
   },
   {
    "file": "P_08/SE001/Train/NonpredictiveSpelling/P_08_SE001_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "9253eb141413c4d692db5682008226b89896464a90e756b9bd203c3af54f2cab"
+   "sha256": "9253eb141413c4d692db5682008226b89896464a90e756b9bd203c3af54f2cab",
+   "subject": "8"
   },
   {
    "file": "P_08/SE001/Train/NonpredictiveSpelling/P_08_SE001_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "d60e63c260d3607f4eedaafec73975666f036c6e070926208d56fab8d7552909"
+   "sha256": "d60e63c260d3607f4eedaafec73975666f036c6e070926208d56fab8d7552909",
+   "subject": "8"
   },
   {
    "file": "P_08/SE001/Train/NonpredictiveSpelling/P_08_SE001_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "cf45af77f8e2d2377d3c8294f6f1a023a54998d0803247a80c8b5c1e45eac844"
+   "sha256": "cf45af77f8e2d2377d3c8294f6f1a023a54998d0803247a80c8b5c1e45eac844",
+   "subject": "8"
   },
   {
    "file": "P_08/SE001/Train/NonpredictiveSpelling/P_08_SE001_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "b129434e85f160d0a8576358b58bef611fc5bfece1ef58879a76f605c06cc1bf"
+   "sha256": "b129434e85f160d0a8576358b58bef611fc5bfece1ef58879a76f605c06cc1bf",
+   "subject": "8"
   },
   {
    "file": "P_08/SE001/Train/NonpredictiveSpelling/P_08_SE001_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "398fad25bf21f624e9359e8d347fd7414ada7244caae34741fe11917498313da"
+   "sha256": "398fad25bf21f624e9359e8d347fd7414ada7244caae34741fe11917498313da",
+   "subject": "8"
   },
   {
    "file": "P_08/SE002/Test/PredictiveSpelling/P_08_SE002_PredictiveSpelling_Test01.edf",
    "bytes": 25897686,
-   "sha256": "18fbb9a359bc605b8548b8fc9865f5e61a15ed54b221e9703e024c7d73910d8d"
+   "sha256": "18fbb9a359bc605b8548b8fc9865f5e61a15ed54b221e9703e024c7d73910d8d",
+   "subject": "8"
   },
   {
    "file": "P_08/SE002/Train/PredictiveSpelling/P_08_SE002_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "793662584a47c9c177b03b685ba27cf743d25d4f9310d1defd06c622174e6875"
+   "sha256": "793662584a47c9c177b03b685ba27cf743d25d4f9310d1defd06c622174e6875",
+   "subject": "8"
   },
   {
    "file": "P_08/SE002/Train/PredictiveSpelling/P_08_SE002_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "3666ee9314f1306b46375ba41960dec015e4cea4ac7db8a2568adf27f0ba8936"
+   "sha256": "3666ee9314f1306b46375ba41960dec015e4cea4ac7db8a2568adf27f0ba8936",
+   "subject": "8"
   },
   {
    "file": "P_08/SE002/Train/PredictiveSpelling/P_08_SE002_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "c8983a46f67dfd60155dc02ef7346b383604e84d06f3c64045eb96fd378075d3"
+   "sha256": "c8983a46f67dfd60155dc02ef7346b383604e84d06f3c64045eb96fd378075d3",
+   "subject": "8"
   },
   {
    "file": "P_08/SE002/Train/PredictiveSpelling/P_08_SE002_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "0617d9699dbb6b0fa8a82cfbef4e5a4f22ce074ddee765717dfbe243f2bc1d9a"
+   "sha256": "0617d9699dbb6b0fa8a82cfbef4e5a4f22ce074ddee765717dfbe243f2bc1d9a",
+   "subject": "8"
   },
   {
    "file": "P_08/SE002/Train/PredictiveSpelling/P_08_SE002_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "20ca4b2fc367b9ff3177da18dec03de5966aa45e371eb88af71e42ebc93d4a20"
+   "sha256": "20ca4b2fc367b9ff3177da18dec03de5966aa45e371eb88af71e42ebc93d4a20",
+   "subject": "8"
   },
   {
    "file": "P_09/SE001/Test/NonpredictiveSpelling/P_09_SE001_NonpredictiveSpelling_Test01.edf",
    "bytes": 123780822,
-   "sha256": "6120e1e05738abb84d348e39ff5392b921ad0857ddfb1354c6fa0408001c5dd2"
+   "sha256": "6120e1e05738abb84d348e39ff5392b921ad0857ddfb1354c6fa0408001c5dd2",
+   "subject": "9"
   },
   {
    "file": "P_09/SE001/Train/NonpredictiveSpelling/P_09_SE001_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "ed97a55b0cfc6c07e8aa7a65c7da2ed88a94837de694162e35b113292e9f971f"
+   "sha256": "ed97a55b0cfc6c07e8aa7a65c7da2ed88a94837de694162e35b113292e9f971f",
+   "subject": "9"
   },
   {
    "file": "P_09/SE001/Train/NonpredictiveSpelling/P_09_SE001_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "4966ddb2fe872258e65107dff5baf9bfe95e6818cd8d55eacf56873f9d408c23"
+   "sha256": "4966ddb2fe872258e65107dff5baf9bfe95e6818cd8d55eacf56873f9d408c23",
+   "subject": "9"
   },
   {
    "file": "P_09/SE001/Train/NonpredictiveSpelling/P_09_SE001_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "06cf218cea05fdd2d77ea7c31582cb30e4e3d4eec13e1f9788f55bb8a5b847d0"
+   "sha256": "06cf218cea05fdd2d77ea7c31582cb30e4e3d4eec13e1f9788f55bb8a5b847d0",
+   "subject": "9"
   },
   {
    "file": "P_09/SE001/Train/NonpredictiveSpelling/P_09_SE001_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "e39345e0f0410582e1bf777a2b6bb0af5e611a9c19e43154cb84c3d81cc0e410"
+   "sha256": "e39345e0f0410582e1bf777a2b6bb0af5e611a9c19e43154cb84c3d81cc0e410",
+   "subject": "9"
   },
   {
    "file": "P_09/SE001/Train/NonpredictiveSpelling/P_09_SE001_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "c9c2a3aaa11cf15d1c18db2e0c149e21beba95ef43b62dfd6c4fc1a80975e81e"
+   "sha256": "c9c2a3aaa11cf15d1c18db2e0c149e21beba95ef43b62dfd6c4fc1a80975e81e",
+   "subject": "9"
   },
   {
    "file": "P_09/SE002/Test/PredictiveSpelling/P_09_SE002_PredictiveSpelling_Test01.edf",
    "bytes": 62494422,
-   "sha256": "814ba3b0565115c722f3822d257fdd9a407b1e7972768a051a9726c384c41087"
+   "sha256": "814ba3b0565115c722f3822d257fdd9a407b1e7972768a051a9726c384c41087",
+   "subject": "9"
   },
   {
    "file": "P_09/SE002/Train/PredictiveSpelling/P_09_SE002_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "dae86c541a1d1639efe7ac061d064a9ddc88e98b88940d413edc8e41b7599d9d"
+   "sha256": "dae86c541a1d1639efe7ac061d064a9ddc88e98b88940d413edc8e41b7599d9d",
+   "subject": "9"
   },
   {
    "file": "P_09/SE002/Train/PredictiveSpelling/P_09_SE002_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "13ceade5efbe462cca48af07ab7f1af7a19044c009cbce6f7a374bb9900d00dc"
+   "sha256": "13ceade5efbe462cca48af07ab7f1af7a19044c009cbce6f7a374bb9900d00dc",
+   "subject": "9"
   },
   {
    "file": "P_09/SE002/Train/PredictiveSpelling/P_09_SE002_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "d5450064575ec2f800747c68f1a777ba62323aea66ff764fa46d099c9e4947cf"
+   "sha256": "d5450064575ec2f800747c68f1a777ba62323aea66ff764fa46d099c9e4947cf",
+   "subject": "9"
   },
   {
    "file": "P_09/SE002/Train/PredictiveSpelling/P_09_SE002_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "df6c971573277c16db743e6ac7e793bb5304873961fa5b1679ce989633afda19"
+   "sha256": "df6c971573277c16db743e6ac7e793bb5304873961fa5b1679ce989633afda19",
+   "subject": "9"
   },
   {
    "file": "P_09/SE002/Train/PredictiveSpelling/P_09_SE002_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "e7093510d0381c0765ccad7e9079153ff911472c26db4c5a532e6b0b55639148"
+   "sha256": "e7093510d0381c0765ccad7e9079153ff911472c26db4c5a532e6b0b55639148",
+   "subject": "9"
   },
   {
    "file": "P_10/SE001/Test/PredictiveSpelling/P_10_SE001_PredictiveSpelling_Test01.edf",
    "bytes": 47172822,
-   "sha256": "26bc90c95fa691fda67b26f84c630553795a1f232ebdfe50a788cc5f45406ffc"
+   "sha256": "26bc90c95fa691fda67b26f84c630553795a1f232ebdfe50a788cc5f45406ffc",
+   "subject": "10"
   },
   {
    "file": "P_10/SE001/Train/PredictiveSpelling/P_10_SE001_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "1f76078b97009cc029dce5f143501b65c5f8b6672acf10ddeff6280b37228790"
+   "sha256": "1f76078b97009cc029dce5f143501b65c5f8b6672acf10ddeff6280b37228790",
+   "subject": "10"
   },
   {
    "file": "P_10/SE001/Train/PredictiveSpelling/P_10_SE001_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "e607dd49a3eb989d9cfce54761a9ff8f8f72979101671c727767248e76715abc"
+   "sha256": "e607dd49a3eb989d9cfce54761a9ff8f8f72979101671c727767248e76715abc",
+   "subject": "10"
   },
   {
    "file": "P_10/SE001/Train/PredictiveSpelling/P_10_SE001_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "2a38b1cc0ab3ad3c0caaff70701eda77e0182f2f26a087a13dd748a5a6a7ee90"
+   "sha256": "2a38b1cc0ab3ad3c0caaff70701eda77e0182f2f26a087a13dd748a5a6a7ee90",
+   "subject": "10"
   },
   {
    "file": "P_10/SE001/Train/PredictiveSpelling/P_10_SE001_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "7dbffce7ebde647cde0d23c8eb813a0a3e6696a8fd72e86f9e02e131830d5897"
+   "sha256": "7dbffce7ebde647cde0d23c8eb813a0a3e6696a8fd72e86f9e02e131830d5897",
+   "subject": "10"
   },
   {
    "file": "P_10/SE001/Train/PredictiveSpelling/P_10_SE001_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "968abc0d481952739e2698bd406e76f414d47d808b5232894e3c39fb1e2983a3"
+   "sha256": "968abc0d481952739e2698bd406e76f414d47d808b5232894e3c39fb1e2983a3",
+   "subject": "10"
   },
   {
    "file": "P_10/SE002/Test/NonpredictiveSpelling/P_10_SE002_NonpredictiveSpelling_Test01.edf",
    "bytes": 56715990,
-   "sha256": "b5c00ceff87855afc5b8fa310c6839ca67302ae208599642ebfc409c2dce9cf7"
+   "sha256": "b5c00ceff87855afc5b8fa310c6839ca67302ae208599642ebfc409c2dce9cf7",
+   "subject": "10"
   },
   {
    "file": "P_10/SE002/Train/NonpredictiveSpelling/P_10_SE002_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "c6258489ac15bc87dd46d42386a1dbe9bf74a2f20d9a8bd60fc0859aa6c34f06"
+   "sha256": "c6258489ac15bc87dd46d42386a1dbe9bf74a2f20d9a8bd60fc0859aa6c34f06",
+   "subject": "10"
   },
   {
    "file": "P_10/SE002/Train/NonpredictiveSpelling/P_10_SE002_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "095dd0f3ec4ab6f4be2d8cb3922f9a0f247277d0f257859f85d75fa23bad6b8c"
+   "sha256": "095dd0f3ec4ab6f4be2d8cb3922f9a0f247277d0f257859f85d75fa23bad6b8c",
+   "subject": "10"
   },
   {
    "file": "P_10/SE002/Train/NonpredictiveSpelling/P_10_SE002_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "16403b2f4c0d389bf1ec61928679ad57b25c77ef023ec87d33adcefb667751f9"
+   "sha256": "16403b2f4c0d389bf1ec61928679ad57b25c77ef023ec87d33adcefb667751f9",
+   "subject": "10"
   },
   {
    "file": "P_10/SE002/Train/NonpredictiveSpelling/P_10_SE002_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "3cbe3eab2cfd780b24bc38b3c4c1f4fc39fb8f40e46e54ac5e5c10820fca22fe"
+   "sha256": "3cbe3eab2cfd780b24bc38b3c4c1f4fc39fb8f40e46e54ac5e5c10820fca22fe",
+   "subject": "10"
   },
   {
    "file": "P_10/SE002/Train/NonpredictiveSpelling/P_10_SE002_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "6a69a07192c817de66e403a99fa3e97c008c6965db7bb5ada3014aceb096caed"
+   "sha256": "6a69a07192c817de66e403a99fa3e97c008c6965db7bb5ada3014aceb096caed",
+   "subject": "10"
   },
   {
    "file": "P_11/SE001/Test/PredictiveSpelling/P_11_SE001_PredictiveSpelling_Test01.edf",
    "bytes": 36754134,
-   "sha256": "7807746f134c41ec1f57707647306538a80e6985dbe8ec3cd69464e7b9694958"
+   "sha256": "7807746f134c41ec1f57707647306538a80e6985dbe8ec3cd69464e7b9694958",
+   "subject": "11"
   },
   {
    "file": "P_11/SE001/Train/PredictiveSpelling/P_11_SE001_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "cd3907781ea27e6ee3925813d0fe0bbe0b01910534f58b1f8ae7f2c856bf1b0f"
+   "sha256": "cd3907781ea27e6ee3925813d0fe0bbe0b01910534f58b1f8ae7f2c856bf1b0f",
+   "subject": "11"
   },
   {
    "file": "P_11/SE001/Train/PredictiveSpelling/P_11_SE001_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "ebf50d3a90f85ce6b8aa664a3f38276b0555fdc6d6c3095577f2847e4b55d40c"
+   "sha256": "ebf50d3a90f85ce6b8aa664a3f38276b0555fdc6d6c3095577f2847e4b55d40c",
+   "subject": "11"
   },
   {
    "file": "P_11/SE001/Train/PredictiveSpelling/P_11_SE001_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "b9216702733dd816d5cb544bd6e16b23bce621c53302f097d52f803847a387de"
+   "sha256": "b9216702733dd816d5cb544bd6e16b23bce621c53302f097d52f803847a387de",
+   "subject": "11"
   },
   {
    "file": "P_11/SE001/Train/PredictiveSpelling/P_11_SE001_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "82bfc333b28749f281a78835d685c0e0ee23f1abbbcc1b30716be2c41f6e046a"
+   "sha256": "82bfc333b28749f281a78835d685c0e0ee23f1abbbcc1b30716be2c41f6e046a",
+   "subject": "11"
   },
   {
    "file": "P_11/SE001/Train/PredictiveSpelling/P_11_SE001_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "2cf4c435a58653f351cf170c3827cbc20febe7ffe6b447e98e08d3eed8d4bf00"
+   "sha256": "2cf4c435a58653f351cf170c3827cbc20febe7ffe6b447e98e08d3eed8d4bf00",
+   "subject": "11"
   },
   {
    "file": "P_11/SE002/Test/NonpredictiveSpelling/P_11_SE002_NonpredictiveSpelling_Test01.edf",
    "bytes": 82631382,
-   "sha256": "6d8a132b92b042b3e2d0aa78461aeebfc7d566404f810b5964bec6290bd5bd55"
+   "sha256": "6d8a132b92b042b3e2d0aa78461aeebfc7d566404f810b5964bec6290bd5bd55",
+   "subject": "11"
   },
   {
    "file": "P_11/SE002/Train/NonpredictiveSpelling/P_11_SE002_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "04e253647be0ae3b946dc8063cb1cb641b08c246c2507704fc153315e0fec21c"
+   "sha256": "04e253647be0ae3b946dc8063cb1cb641b08c246c2507704fc153315e0fec21c",
+   "subject": "11"
   },
   {
    "file": "P_11/SE002/Train/NonpredictiveSpelling/P_11_SE002_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "80ab7c10b4401f813639242f2800b9370936294b9ef9dbe5df36789ca40bdd4c"
+   "sha256": "80ab7c10b4401f813639242f2800b9370936294b9ef9dbe5df36789ca40bdd4c",
+   "subject": "11"
   },
   {
    "file": "P_11/SE002/Train/NonpredictiveSpelling/P_11_SE002_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "c1a9c2c7fd43e0382651cd9596a594c7d9e689885649e59387859b88f075e571"
+   "sha256": "c1a9c2c7fd43e0382651cd9596a594c7d9e689885649e59387859b88f075e571",
+   "subject": "11"
   },
   {
    "file": "P_11/SE002/Train/NonpredictiveSpelling/P_11_SE002_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "63648fc885345edb3aafa9f1ae38857d49aa74f6d582ece8fd717aabd365f00a"
+   "sha256": "63648fc885345edb3aafa9f1ae38857d49aa74f6d582ece8fd717aabd365f00a",
+   "subject": "11"
   },
   {
    "file": "P_11/SE002/Train/NonpredictiveSpelling/P_11_SE002_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "70b8370faa01b8509c7627a420966b86f13c57447e83c6a23767903b7dc94dde"
+   "sha256": "70b8370faa01b8509c7627a420966b86f13c57447e83c6a23767903b7dc94dde",
+   "subject": "11"
   },
   {
    "file": "P_12/SE001/Test/NonpredictiveSpelling/P_12_SE001_NonpredictiveSpelling_Test01.edf",
    "bytes": 50762454,
-   "sha256": "02147bd11b494edb87f24bfdd53ce74073ff6dbafa188b5f163e8631faa91c42"
+   "sha256": "02147bd11b494edb87f24bfdd53ce74073ff6dbafa188b5f163e8631faa91c42",
+   "subject": "12"
   },
   {
    "file": "P_12/SE001/Train/NonpredictiveSpelling/P_12_SE001_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "9a5fbcc4924ad7d7dcafc39fcc3442855e4c3c47d2d3dc7d9721c818a146bf85"
+   "sha256": "9a5fbcc4924ad7d7dcafc39fcc3442855e4c3c47d2d3dc7d9721c818a146bf85",
+   "subject": "12"
   },
   {
    "file": "P_12/SE001/Train/NonpredictiveSpelling/P_12_SE001_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "190b9451e6ad861a3d83fc79d37eca475f2826d592ece216fc08c2a23e2fde2e"
+   "sha256": "190b9451e6ad861a3d83fc79d37eca475f2826d592ece216fc08c2a23e2fde2e",
+   "subject": "12"
   },
   {
    "file": "P_12/SE001/Train/NonpredictiveSpelling/P_12_SE001_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "6afc604ee206614acb415ee36c5cadc316b225ff2f967aae0f8fc79d564adca2"
+   "sha256": "6afc604ee206614acb415ee36c5cadc316b225ff2f967aae0f8fc79d564adca2",
+   "subject": "12"
   },
   {
    "file": "P_12/SE001/Train/NonpredictiveSpelling/P_12_SE001_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "f44e2276728df5cd4f4952b33635839f422b568315c3ae7f47fc9133b7eee455"
+   "sha256": "f44e2276728df5cd4f4952b33635839f422b568315c3ae7f47fc9133b7eee455",
+   "subject": "12"
   },
   {
    "file": "P_12/SE001/Train/NonpredictiveSpelling/P_12_SE001_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "5b1817220e7d02e098c2257476be15a8e37430bd266f1401b674b88bad727381"
+   "sha256": "5b1817220e7d02e098c2257476be15a8e37430bd266f1401b674b88bad727381",
+   "subject": "12"
   },
   {
    "file": "P_12/SE002/Test/PredictiveSpelling/P_12_SE002_PredictiveSpelling_Test01.edf",
    "bytes": 27123414,
-   "sha256": "e27aa59003c649119b56dba197dd25406c40dfc662210974ad1b569661b3db08"
+   "sha256": "e27aa59003c649119b56dba197dd25406c40dfc662210974ad1b569661b3db08",
+   "subject": "12"
   },
   {
    "file": "P_12/SE002/Train/PredictiveSpelling/P_12_SE002_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "1981e7ceaa85620f59d62bcfa42bd129444e9024ebd92dcf4d5b46b28a9d201c"
+   "sha256": "1981e7ceaa85620f59d62bcfa42bd129444e9024ebd92dcf4d5b46b28a9d201c",
+   "subject": "12"
   },
   {
    "file": "P_12/SE002/Train/PredictiveSpelling/P_12_SE002_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "47ff2fcea260cdcbde97143b665612605f0efaf05656628af08e312e4f7be82c"
+   "sha256": "47ff2fcea260cdcbde97143b665612605f0efaf05656628af08e312e4f7be82c",
+   "subject": "12"
   },
   {
    "file": "P_12/SE002/Train/PredictiveSpelling/P_12_SE002_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "d1754b0cb36394af26279eaa869af3390545874bec5ed755e8701e2c0c5d2a00"
+   "sha256": "d1754b0cb36394af26279eaa869af3390545874bec5ed755e8701e2c0c5d2a00",
+   "subject": "12"
   },
   {
    "file": "P_12/SE002/Train/PredictiveSpelling/P_12_SE002_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "59cc161165375f6ed851a7a5eb6e9fbed4965f17518b29bce1934a6cc3a4d6b3"
+   "sha256": "59cc161165375f6ed851a7a5eb6e9fbed4965f17518b29bce1934a6cc3a4d6b3",
+   "subject": "12"
   },
   {
    "file": "P_12/SE002/Train/PredictiveSpelling/P_12_SE002_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "811ff6d833bd351e7ca6a2e87420163624497f2b568ad79ca49885a759eef5ca"
+   "sha256": "811ff6d833bd351e7ca6a2e87420163624497f2b568ad79ca49885a759eef5ca",
+   "subject": "12"
   },
   {
    "file": "P_13/SE001/Test/NonpredictiveSpelling/P_13_SE001_NonpredictiveSpelling_Test01.edf",
    "bytes": 65471190,
-   "sha256": "e660a6ca94164c85c482bb0e6d908a5a3a2d0ac0053e141e09d9ef4a43a9b3b8"
+   "sha256": "e660a6ca94164c85c482bb0e6d908a5a3a2d0ac0053e141e09d9ef4a43a9b3b8",
+   "subject": "13"
   },
   {
    "file": "P_13/SE001/Train/NonpredictiveSpelling/P_13_SE001_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "c03308d686f80eff96ebc0bbffdd599bc5b6f97c28dee0abaa4e61990bfb8841"
+   "sha256": "c03308d686f80eff96ebc0bbffdd599bc5b6f97c28dee0abaa4e61990bfb8841",
+   "subject": "13"
   },
   {
    "file": "P_13/SE001/Train/NonpredictiveSpelling/P_13_SE001_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "6e2d70374d887846fcaf5ae5013026074f75a77cbacfbad74e98ff790828e2aa"
+   "sha256": "6e2d70374d887846fcaf5ae5013026074f75a77cbacfbad74e98ff790828e2aa",
+   "subject": "13"
   },
   {
    "file": "P_13/SE001/Train/NonpredictiveSpelling/P_13_SE001_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "c51416d5e597ceafc115582db2b883705b957f0a7c42b4e94fc4387f330a8e2d"
+   "sha256": "c51416d5e597ceafc115582db2b883705b957f0a7c42b4e94fc4387f330a8e2d",
+   "subject": "13"
   },
   {
    "file": "P_13/SE001/Train/NonpredictiveSpelling/P_13_SE001_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "bc3ed425b357f7479f00729372b29401274478da9d1a26684b4f7f48114fd408"
+   "sha256": "bc3ed425b357f7479f00729372b29401274478da9d1a26684b4f7f48114fd408",
+   "subject": "13"
   },
   {
    "file": "P_13/SE001/Train/NonpredictiveSpelling/P_13_SE001_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "ab8ef5e1348ebeea6462d1b5968b08ad3f0e9351f61b29a551918c7b789de50e"
+   "sha256": "ab8ef5e1348ebeea6462d1b5968b08ad3f0e9351f61b29a551918c7b789de50e",
+   "subject": "13"
   },
   {
    "file": "P_13/SE002/Test/PredictiveSpelling/P_13_SE002_PredictiveSpelling_Test01.edf",
    "bytes": 30800598,
-   "sha256": "94ad74e37d32179c14474af243f1096c14d26095b23f3fdfee857ae7edaebe58"
+   "sha256": "94ad74e37d32179c14474af243f1096c14d26095b23f3fdfee857ae7edaebe58",
+   "subject": "13"
   },
   {
    "file": "P_13/SE002/Train/PredictiveSpelling/P_13_SE002_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "7398eb632bc3f23ca0a988a4a3eba7774797e3607da3225b5dc80e18e26b20f0"
+   "sha256": "7398eb632bc3f23ca0a988a4a3eba7774797e3607da3225b5dc80e18e26b20f0",
+   "subject": "13"
   },
   {
    "file": "P_13/SE002/Train/PredictiveSpelling/P_13_SE002_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "3bcb37ab2d490ad13ee2e20a7fcac6667d5e4797eb74e53d456a50011b5ddc88"
+   "sha256": "3bcb37ab2d490ad13ee2e20a7fcac6667d5e4797eb74e53d456a50011b5ddc88",
+   "subject": "13"
   },
   {
    "file": "P_13/SE002/Train/PredictiveSpelling/P_13_SE002_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "bb961432a4f543d924d9fa809564ef6d8d1262adb038b23609ba2b8ac78e0f46"
+   "sha256": "bb961432a4f543d924d9fa809564ef6d8d1262adb038b23609ba2b8ac78e0f46",
+   "subject": "13"
   },
   {
    "file": "P_13/SE002/Train/PredictiveSpelling/P_13_SE002_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "00503fcac2f7d8da18b2da780c7687a9e9df0bdc828868ff9549368c95c30c99"
+   "sha256": "00503fcac2f7d8da18b2da780c7687a9e9df0bdc828868ff9549368c95c30c99",
+   "subject": "13"
   },
   {
    "file": "P_13/SE002/Train/PredictiveSpelling/P_13_SE002_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "e83f00c90bdd467f1f5f6b5a8c47dd11d55fceefb2290e75b57c863e1235f381"
+   "sha256": "e83f00c90bdd467f1f5f6b5a8c47dd11d55fceefb2290e75b57c863e1235f381",
+   "subject": "13"
   },
   {
    "file": "P_14/SE001/Test/NonpredictiveSpelling/P_14_SE001_NonpredictiveSpelling_Test04.edf",
    "bytes": 85958358,
-   "sha256": "cea47a598955d98407f3924022cc87d750bdcd22447f45422130a85da23f6f2b"
+   "sha256": "cea47a598955d98407f3924022cc87d750bdcd22447f45422130a85da23f6f2b",
+   "subject": "14"
   },
   {
    "file": "P_14/SE001/Train/NonpredictiveSpelling/P_14_SE001_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "17a4819a5838eb68ac0869be6d9dd4da135dcc1ac696bb705e1776fbe98de019"
+   "sha256": "17a4819a5838eb68ac0869be6d9dd4da135dcc1ac696bb705e1776fbe98de019",
+   "subject": "14"
   },
   {
    "file": "P_14/SE001/Train/NonpredictiveSpelling/P_14_SE001_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "b087e3ca409672a40ac4a511f0bad33fcb91cfbe83b76b4665f2b0b3cfe4ce83"
+   "sha256": "b087e3ca409672a40ac4a511f0bad33fcb91cfbe83b76b4665f2b0b3cfe4ce83",
+   "subject": "14"
   },
   {
    "file": "P_14/SE001/Train/NonpredictiveSpelling/P_14_SE001_NonpredictiveSpelling_Train04.edf",
    "bytes": 8057142,
-   "sha256": "98b85871921ae67eaa9201b16f1fdbce600534ada0aa0f93b85c630296540132"
+   "sha256": "98b85871921ae67eaa9201b16f1fdbce600534ada0aa0f93b85c630296540132",
+   "subject": "14"
   },
   {
    "file": "P_14/SE001/Train/NonpredictiveSpelling/P_14_SE001_NonpredictiveSpelling_Train05.edf",
    "bytes": 9136950,
-   "sha256": "e54c9465d3c788adad91f1506f6fe586b088d4f36d6223779ab45cbcdd34f34e"
+   "sha256": "e54c9465d3c788adad91f1506f6fe586b088d4f36d6223779ab45cbcdd34f34e",
+   "subject": "14"
   },
   {
    "file": "P_14/SE001/Train/NonpredictiveSpelling/P_14_SE001_NonpredictiveSpelling_Train06.edf",
    "bytes": 8057142,
-   "sha256": "ce1717523fd13b4ab40e0aec5c8ccd758ea6004b949a957b01891faa98b76ec4"
+   "sha256": "ce1717523fd13b4ab40e0aec5c8ccd758ea6004b949a957b01891faa98b76ec4",
+   "subject": "14"
   },
   {
    "file": "P_14/SE002/Test/PredictiveSpelling/P_14_SE002_PredictiveSpelling_Test01.edf",
    "bytes": 47260374,
-   "sha256": "dc83ea8e65d950b77970265a3e5147f2badb3e7291098c159932a1a591333976"
+   "sha256": "dc83ea8e65d950b77970265a3e5147f2badb3e7291098c159932a1a591333976",
+   "subject": "14"
   },
   {
    "file": "P_14/SE002/Train/PredictiveSpelling/P_14_SE002_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "23fcbcea3fdd345ff83c7447f5abcc85902d64b6a21022aa22ad824d0baf2b57"
+   "sha256": "23fcbcea3fdd345ff83c7447f5abcc85902d64b6a21022aa22ad824d0baf2b57",
+   "subject": "14"
   },
   {
    "file": "P_14/SE002/Train/PredictiveSpelling/P_14_SE002_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "943aa0ef17e833918d1d4da767fefbf474ab16a22f1b75af6c17175acf9f6520"
+   "sha256": "943aa0ef17e833918d1d4da767fefbf474ab16a22f1b75af6c17175acf9f6520",
+   "subject": "14"
   },
   {
    "file": "P_14/SE002/Train/PredictiveSpelling/P_14_SE002_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "ef1275f63ef835de52384e72b85647abde6e1b2915c90ec3c32d9d6ebb05eb17"
+   "sha256": "ef1275f63ef835de52384e72b85647abde6e1b2915c90ec3c32d9d6ebb05eb17",
+   "subject": "14"
   },
   {
    "file": "P_14/SE002/Train/PredictiveSpelling/P_14_SE002_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "3b6ac7834f9b066a30e57bdac1ae85a5e41d5918206a273e4ec656df8c1b18b0"
+   "sha256": "3b6ac7834f9b066a30e57bdac1ae85a5e41d5918206a273e4ec656df8c1b18b0",
+   "subject": "14"
   },
   {
    "file": "P_14/SE002/Train/PredictiveSpelling/P_14_SE002_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "72b2d50599d94fd55a3835458c1c834d0743da83966bd0703dd9b1af1d4c5acc"
+   "sha256": "72b2d50599d94fd55a3835458c1c834d0743da83966bd0703dd9b1af1d4c5acc",
+   "subject": "14"
   },
   {
    "file": "P_15/SE001/Test/NonpredictiveSpelling/P_15_SE001_NonpredictiveSpelling_Test03.edf",
    "bytes": 102943446,
-   "sha256": "4a89a0eb89d2bdc864d23ae87b22eba02182679a83f45d56a6bd0370e63a8b14"
+   "sha256": "4a89a0eb89d2bdc864d23ae87b22eba02182679a83f45d56a6bd0370e63a8b14",
+   "subject": "15"
   },
   {
    "file": "P_15/SE001/Train/NonpredictiveSpelling/P_15_SE001_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "39a3f74f2f5642d4fcd2aa97d17c97053d13264fae0dae1eb5bab1bb8627b6f2"
+   "sha256": "39a3f74f2f5642d4fcd2aa97d17c97053d13264fae0dae1eb5bab1bb8627b6f2",
+   "subject": "15"
   },
   {
    "file": "P_15/SE001/Train/NonpredictiveSpelling/P_15_SE001_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "60f1947b5595d8d13caa6d86916abea5d8d5d80f970d5e8ceef368a2d930a7c9"
+   "sha256": "60f1947b5595d8d13caa6d86916abea5d8d5d80f970d5e8ceef368a2d930a7c9",
+   "subject": "15"
   },
   {
    "file": "P_15/SE001/Train/NonpredictiveSpelling/P_15_SE001_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "00b58852f88a29175b5f7c769cadb049e428405d96b4de4313541de01af6dde0"
+   "sha256": "00b58852f88a29175b5f7c769cadb049e428405d96b4de4313541de01af6dde0",
+   "subject": "15"
   },
   {
    "file": "P_15/SE001/Train/NonpredictiveSpelling/P_15_SE001_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "87c719deccb4a71f0e2022bc8a25065c0be33e648e531c999c1e413a97cb01b5"
+   "sha256": "87c719deccb4a71f0e2022bc8a25065c0be33e648e531c999c1e413a97cb01b5",
+   "subject": "15"
   },
   {
    "file": "P_15/SE001/Train/NonpredictiveSpelling/P_15_SE001_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "bf95b774b8a619bb63e181e3540289f3d94da483bd01193dfa5c872ff2f4c170"
+   "sha256": "bf95b774b8a619bb63e181e3540289f3d94da483bd01193dfa5c872ff2f4c170",
+   "subject": "15"
   },
   {
    "file": "P_15/SE002/Test/PredictiveSpelling/P_15_SE002_PredictiveSpelling_Test01.edf",
    "bytes": 57766614,
-   "sha256": "1dca5ac1a46f14f79d71b9faefc7f34fd2b9702945729f2fb91d11a6b83a7cac"
+   "sha256": "1dca5ac1a46f14f79d71b9faefc7f34fd2b9702945729f2fb91d11a6b83a7cac",
+   "subject": "15"
   },
   {
    "file": "P_15/SE002/Train/PredictiveSpelling/P_15_SE002_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "26d081643885c32bbcd95caa1cc16311cd863b9f8783a48f7b411baa79396971"
+   "sha256": "26d081643885c32bbcd95caa1cc16311cd863b9f8783a48f7b411baa79396971",
+   "subject": "15"
   },
   {
    "file": "P_15/SE002/Train/PredictiveSpelling/P_15_SE002_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "91c7da06913dc3c77b94e9bb31e690e3c30776ebc314a5a3106c4860b56d41fb"
+   "sha256": "91c7da06913dc3c77b94e9bb31e690e3c30776ebc314a5a3106c4860b56d41fb",
+   "subject": "15"
   },
   {
    "file": "P_15/SE002/Train/PredictiveSpelling/P_15_SE002_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "28a2007e07a4c62134e1d36b6341d7a769a994aea8d664364d32fab84f8a2d50"
+   "sha256": "28a2007e07a4c62134e1d36b6341d7a769a994aea8d664364d32fab84f8a2d50",
+   "subject": "15"
   },
   {
    "file": "P_15/SE002/Train/PredictiveSpelling/P_15_SE002_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "576052eb068756c122120b93395298d1fcc9eb3488413a5a101b745c2cbe9426"
+   "sha256": "576052eb068756c122120b93395298d1fcc9eb3488413a5a101b745c2cbe9426",
+   "subject": "15"
   },
   {
    "file": "P_15/SE002/Train/PredictiveSpelling/P_15_SE002_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "1b5749c6b2e718069d7c7dafac46654f23de980e32835af0eb57c0a12fc58516"
+   "sha256": "1b5749c6b2e718069d7c7dafac46654f23de980e32835af0eb57c0a12fc58516",
+   "subject": "15"
   },
   {
    "file": "P_16/SE001/Test/PredictiveSpelling/P_16_SE001_PredictiveSpelling_Test01.edf",
    "bytes": 35703510,
-   "sha256": "61a1e45dbd5e2e928bb7065839a6a7c08e7f9369717e790cb2b151ae5fce6306"
+   "sha256": "61a1e45dbd5e2e928bb7065839a6a7c08e7f9369717e790cb2b151ae5fce6306",
+   "subject": "16"
   },
   {
    "file": "P_16/SE001/Train/PredictiveSpelling/P_16_SE001_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "288da63856c1dcd8a5b3001f115ffeb69cfeb398174f2d66927c2af0bc4806a1"
+   "sha256": "288da63856c1dcd8a5b3001f115ffeb69cfeb398174f2d66927c2af0bc4806a1",
+   "subject": "16"
   },
   {
    "file": "P_16/SE001/Train/PredictiveSpelling/P_16_SE001_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "2713b6ad9b960b2771d84de46805f495668d79e08c9935b289aee8852fdb9763"
+   "sha256": "2713b6ad9b960b2771d84de46805f495668d79e08c9935b289aee8852fdb9763",
+   "subject": "16"
   },
   {
    "file": "P_16/SE001/Train/PredictiveSpelling/P_16_SE001_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "e84dd6ba3270940e0c6dbd767c6bf4ff019c4c01966fac178dc3f199afa7eca9"
+   "sha256": "e84dd6ba3270940e0c6dbd767c6bf4ff019c4c01966fac178dc3f199afa7eca9",
+   "subject": "16"
   },
   {
    "file": "P_16/SE001/Train/PredictiveSpelling/P_16_SE001_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "25df15544aef98e7e9eee372b96220bb037171f13a10c06293b1158d3c56381c"
+   "sha256": "25df15544aef98e7e9eee372b96220bb037171f13a10c06293b1158d3c56381c",
+   "subject": "16"
   },
   {
    "file": "P_16/SE001/Train/PredictiveSpelling/P_16_SE001_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "5f1172b05746d428e954fb156e3b0893ffd5852dcc0d1316a036e7d741e9368d"
+   "sha256": "5f1172b05746d428e954fb156e3b0893ffd5852dcc0d1316a036e7d741e9368d",
+   "subject": "16"
   },
   {
    "file": "P_16/SE002/Test/NonpredictiveSpelling/P_16_SE002_NonpredictiveSpelling_Test01.edf",
    "bytes": 42007254,
-   "sha256": "73183cb469463720aeadba580177d73792679beb5892dfc33f9160d08a12317e"
+   "sha256": "73183cb469463720aeadba580177d73792679beb5892dfc33f9160d08a12317e",
+   "subject": "16"
   },
   {
    "file": "P_16/SE002/Train/NonpredictiveSpelling/P_16_SE002_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "6dec3e5aaafd548434ea8420f2a31af82d7b17bba1691d07f4a3b06aab1c986b"
+   "sha256": "6dec3e5aaafd548434ea8420f2a31af82d7b17bba1691d07f4a3b06aab1c986b",
+   "subject": "16"
   },
   {
    "file": "P_16/SE002/Train/NonpredictiveSpelling/P_16_SE002_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "c1f47dc8aeb45f5c1dd60cbc6e09ce0aee00ddc5b073cb95a4eb44ffac1c0860"
+   "sha256": "c1f47dc8aeb45f5c1dd60cbc6e09ce0aee00ddc5b073cb95a4eb44ffac1c0860",
+   "subject": "16"
   },
   {
    "file": "P_16/SE002/Train/NonpredictiveSpelling/P_16_SE002_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "a9520a920d0895dcbc5b0dc3b499860045fe05f57a2f7fbf3f82766b86534bb9"
+   "sha256": "a9520a920d0895dcbc5b0dc3b499860045fe05f57a2f7fbf3f82766b86534bb9",
+   "subject": "16"
   },
   {
    "file": "P_16/SE002/Train/NonpredictiveSpelling/P_16_SE002_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "9f94e30d83becfae79050c59ac30b78d4cc8e82a6be690ac4830676f0683d250"
+   "sha256": "9f94e30d83becfae79050c59ac30b78d4cc8e82a6be690ac4830676f0683d250",
+   "subject": "16"
   },
   {
    "file": "P_16/SE002/Train/NonpredictiveSpelling/P_16_SE002_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "173f44b59d06392b8d0832222371f2839cd0ddd9035f40e3367c126bf8dab35c"
+   "sha256": "173f44b59d06392b8d0832222371f2839cd0ddd9035f40e3367c126bf8dab35c",
+   "subject": "16"
   },
   {
    "file": "P_17/SE001/Test/NonpredictiveSpelling/P_17_SE001_NonpredictiveSpelling_Test01.edf",
    "bytes": 75977430,
-   "sha256": "804ea1669c170e5451f0b9c85c0258472bee267290095dd23a70a5c8a04a75a9"
+   "sha256": "804ea1669c170e5451f0b9c85c0258472bee267290095dd23a70a5c8a04a75a9",
+   "subject": "17"
   },
   {
    "file": "P_17/SE001/Train/NonpredictiveSpelling/P_17_SE001_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "5f6a11b8432c942a1e7d7eaa5506eb320a4147ce722f277158e09afd1b5a380e"
+   "sha256": "5f6a11b8432c942a1e7d7eaa5506eb320a4147ce722f277158e09afd1b5a380e",
+   "subject": "17"
   },
   {
    "file": "P_17/SE001/Train/NonpredictiveSpelling/P_17_SE001_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "90bec6157705d428a2143cd8257cbbadf7b8ae59bba58bf50b1956553116ad70"
+   "sha256": "90bec6157705d428a2143cd8257cbbadf7b8ae59bba58bf50b1956553116ad70",
+   "subject": "17"
   },
   {
    "file": "P_17/SE001/Train/NonpredictiveSpelling/P_17_SE001_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "ff15ca2a8b1fa00cf7a649afcc12f2bf3be1cf8a158d0b66d79bd0c2765ece0c"
+   "sha256": "ff15ca2a8b1fa00cf7a649afcc12f2bf3be1cf8a158d0b66d79bd0c2765ece0c",
+   "subject": "17"
   },
   {
    "file": "P_17/SE001/Train/NonpredictiveSpelling/P_17_SE001_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "8f29518d4d68872eb306b51c47c57a9e7e3544de5168dbc8d7936715a0b4eb17"
+   "sha256": "8f29518d4d68872eb306b51c47c57a9e7e3544de5168dbc8d7936715a0b4eb17",
+   "subject": "17"
   },
   {
    "file": "P_17/SE001/Train/NonpredictiveSpelling/P_17_SE001_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "8b19171aca4e5247269607a821ccdb9b463a2f0936d9fa79ee1b212efea26053"
+   "sha256": "8b19171aca4e5247269607a821ccdb9b463a2f0936d9fa79ee1b212efea26053",
+   "subject": "17"
   },
   {
    "file": "P_17/SE002/Test/PredictiveSpelling/P_17_SE002_PredictiveSpelling_Test01.edf",
    "bytes": 78954198,
-   "sha256": "533c4e82649b2f0afe8072e49cfc53468014fc0771ccb44e5243feee9576e760"
+   "sha256": "533c4e82649b2f0afe8072e49cfc53468014fc0771ccb44e5243feee9576e760",
+   "subject": "17"
   },
   {
    "file": "P_17/SE002/Train/PredictiveSpelling/P_17_SE002_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "48364eb31f04d03de0a2cf552a1f6f09a358420988600fdaa778283294725110"
+   "sha256": "48364eb31f04d03de0a2cf552a1f6f09a358420988600fdaa778283294725110",
+   "subject": "17"
   },
   {
    "file": "P_17/SE002/Train/PredictiveSpelling/P_17_SE002_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "b686cd6acdac0fbca93934fb93402a3cd2fc6388f46f85ee21fedf9c1989a18f"
+   "sha256": "b686cd6acdac0fbca93934fb93402a3cd2fc6388f46f85ee21fedf9c1989a18f",
+   "subject": "17"
   },
   {
    "file": "P_17/SE002/Train/PredictiveSpelling/P_17_SE002_PredictiveSpelling_Train03.edf",
    "bytes": 9136950,
-   "sha256": "0b3b8f350620273cfacdfb7734ea36be15d666816028391c09c67f53b516bbb4"
+   "sha256": "0b3b8f350620273cfacdfb7734ea36be15d666816028391c09c67f53b516bbb4",
+   "subject": "17"
   },
   {
    "file": "P_17/SE002/Train/PredictiveSpelling/P_17_SE002_PredictiveSpelling_Train04.edf",
    "bytes": 8057142,
-   "sha256": "118f786e12101263a05a52f168b3095c10734d23d334c2566931cb46b92dd1b9"
+   "sha256": "118f786e12101263a05a52f168b3095c10734d23d334c2566931cb46b92dd1b9",
+   "subject": "17"
   },
   {
    "file": "P_17/SE002/Train/PredictiveSpelling/P_17_SE002_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "bbc1a964f801845faf94f1a00a1381529eef7d2789ec1d7491438a548dba6224"
+   "sha256": "bbc1a964f801845faf94f1a00a1381529eef7d2789ec1d7491438a548dba6224",
+   "subject": "17"
   },
   {
    "file": "P_18/SE001/Test/PredictiveSpelling/P_18_SE001_PredictiveSpelling_Test01.edf",
    "bytes": 67397334,
-   "sha256": "629506069eff2e6189d9d59ed59d8be18377852bda20b7b0a27067af81310a04"
+   "sha256": "629506069eff2e6189d9d59ed59d8be18377852bda20b7b0a27067af81310a04",
+   "subject": "18"
   },
   {
    "file": "P_18/SE001/Train/PredictiveSpelling/P_18_SE001_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "4b7622e530dc008cff1b6dfeee01af1d68a1aca6a079b3b40284a2760c641419"
+   "sha256": "4b7622e530dc008cff1b6dfeee01af1d68a1aca6a079b3b40284a2760c641419",
+   "subject": "18"
   },
   {
    "file": "P_18/SE001/Train/PredictiveSpelling/P_18_SE001_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "b54328bcd6b1052f313d92c442968460a7ecd6aacf0c78f77b510c057a97d209"
+   "sha256": "b54328bcd6b1052f313d92c442968460a7ecd6aacf0c78f77b510c057a97d209",
+   "subject": "18"
   },
   {
    "file": "P_18/SE001/Train/PredictiveSpelling/P_18_SE001_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "8e8e0b1cbf8443c002095b67e36c8629f93cee12568841aa79898d01713b9cf1"
+   "sha256": "8e8e0b1cbf8443c002095b67e36c8629f93cee12568841aa79898d01713b9cf1",
+   "subject": "18"
   },
   {
    "file": "P_18/SE001/Train/PredictiveSpelling/P_18_SE001_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "3e4c9b464614d03760e1d5896b0b0e2f6c14259510e945983ead1e3f4c311877"
+   "sha256": "3e4c9b464614d03760e1d5896b0b0e2f6c14259510e945983ead1e3f4c311877",
+   "subject": "18"
   },
   {
    "file": "P_18/SE001/Train/PredictiveSpelling/P_18_SE001_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "8dead6a2faf84c3b5909dd92d25d39378d90b753e4e04f160d49e95db1acea95"
+   "sha256": "8dead6a2faf84c3b5909dd92d25d39378d90b753e4e04f160d49e95db1acea95",
+   "subject": "18"
   },
   {
    "file": "P_18/SE002/Test/NonpredictiveSpelling/P_18_SE002_NonpredictiveSpelling_Test01.edf",
    "bytes": 83331798,
-   "sha256": "4160c8e5784a79528a5ce38fedccc9777093261694eda13da41d7a166c82b43c"
+   "sha256": "4160c8e5784a79528a5ce38fedccc9777093261694eda13da41d7a166c82b43c",
+   "subject": "18"
   },
   {
    "file": "P_18/SE002/Train/NonpredictiveSpelling/P_18_SE002_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "5d0254ac1231bc8cefc9ced2193863b7bcd76ecd49096d4d914febb411027e75"
+   "sha256": "5d0254ac1231bc8cefc9ced2193863b7bcd76ecd49096d4d914febb411027e75",
+   "subject": "18"
   },
   {
    "file": "P_18/SE002/Train/NonpredictiveSpelling/P_18_SE002_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "e9178cd9777f56af13640c5fa9036b1520aa1cb7b57ada1df6d324d7905440d2"
+   "sha256": "e9178cd9777f56af13640c5fa9036b1520aa1cb7b57ada1df6d324d7905440d2",
+   "subject": "18"
   },
   {
    "file": "P_18/SE002/Train/NonpredictiveSpelling/P_18_SE002_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "72c58db859e80d29efd974ce3414f2b6a43cbd12d164ff0dfe82d0ee3eab5cfe"
+   "sha256": "72c58db859e80d29efd974ce3414f2b6a43cbd12d164ff0dfe82d0ee3eab5cfe",
+   "subject": "18"
   },
   {
    "file": "P_18/SE002/Train/NonpredictiveSpelling/P_18_SE002_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "2c20698822b89cb3916fb2fcac721c180da4134970a00399aa58997908398e3e"
+   "sha256": "2c20698822b89cb3916fb2fcac721c180da4134970a00399aa58997908398e3e",
+   "subject": "18"
   },
   {
    "file": "P_18/SE002/Train/NonpredictiveSpelling/P_18_SE002_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "e1bb37ec6eaa9a3020320d08166696577b5910926d8aeffecd1a35a40cf5e8ee"
+   "sha256": "e1bb37ec6eaa9a3020320d08166696577b5910926d8aeffecd1a35a40cf5e8ee",
+   "subject": "18"
   },
   {
    "file": "P_19/SE001/Test/NonpredictiveSpelling/P_19_SE001_NonpredictiveSpelling_Test01.edf",
    "bytes": 86133462,
-   "sha256": "c629852f1324bfd0be7b7a33d1ed91afafe3498b48c4b918d87d1a9637c526a5"
+   "sha256": "c629852f1324bfd0be7b7a33d1ed91afafe3498b48c4b918d87d1a9637c526a5",
+   "subject": "19"
   },
   {
    "file": "P_19/SE001/Train/NonpredictiveSpelling/P_19_SE001_NonpredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "06c3d80fdabcbfc257ab933ef24c28de2268f9708248cc752070d62e9aa5b36c"
+   "sha256": "06c3d80fdabcbfc257ab933ef24c28de2268f9708248cc752070d62e9aa5b36c",
+   "subject": "19"
   },
   {
    "file": "P_19/SE001/Train/NonpredictiveSpelling/P_19_SE001_NonpredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "d640c48cb986fb0670f65519332386650f2f0b62961d4a0d2851eccb6bb11a04"
+   "sha256": "d640c48cb986fb0670f65519332386650f2f0b62961d4a0d2851eccb6bb11a04",
+   "subject": "19"
   },
   {
    "file": "P_19/SE001/Train/NonpredictiveSpelling/P_19_SE001_NonpredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "ff1763e907f2d764c9fb76be6bc186967b6a6927a13c34bd622e91a85186c9a6"
+   "sha256": "ff1763e907f2d764c9fb76be6bc186967b6a6927a13c34bd622e91a85186c9a6",
+   "subject": "19"
   },
   {
    "file": "P_19/SE001/Train/NonpredictiveSpelling/P_19_SE001_NonpredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "4ac02ab37b535498b3884549301c70af64f0813815bf6a7c0df92a82ab2ad15f"
+   "sha256": "4ac02ab37b535498b3884549301c70af64f0813815bf6a7c0df92a82ab2ad15f",
+   "subject": "19"
   },
   {
    "file": "P_19/SE001/Train/NonpredictiveSpelling/P_19_SE001_NonpredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "423d17368ef4c372055dede79862f08e180cfd49dc9eaf47b633bf2a7ff6ba0d"
+   "sha256": "423d17368ef4c372055dede79862f08e180cfd49dc9eaf47b633bf2a7ff6ba0d",
+   "subject": "19"
   },
   {
    "file": "P_19/SE002/Test/PredictiveSpelling/P_19_SE002_PredictiveSpelling_Test01.edf",
    "bytes": 34652886,
-   "sha256": "a7c09e8eb568531bbfda0fb6bfcea6d9edca30b7ee7bef437abfa12f37adfccd"
+   "sha256": "a7c09e8eb568531bbfda0fb6bfcea6d9edca30b7ee7bef437abfa12f37adfccd",
+   "subject": "19"
   },
   {
    "file": "P_19/SE002/Train/PredictiveSpelling/P_19_SE002_PredictiveSpelling_Train01.edf",
    "bytes": 8057142,
-   "sha256": "a1d6c2ebbc3e23adc1ece022ff0f4042d9351915dc35dffa828f1854d162a6b9"
+   "sha256": "a1d6c2ebbc3e23adc1ece022ff0f4042d9351915dc35dffa828f1854d162a6b9",
+   "subject": "19"
   },
   {
    "file": "P_19/SE002/Train/PredictiveSpelling/P_19_SE002_PredictiveSpelling_Train02.edf",
    "bytes": 8057142,
-   "sha256": "47f46322617a5e5a542f0adfcf59405228dc0520bf263ce348dd45614cbdaaaf"
+   "sha256": "47f46322617a5e5a542f0adfcf59405228dc0520bf263ce348dd45614cbdaaaf",
+   "subject": "19"
   },
   {
    "file": "P_19/SE002/Train/PredictiveSpelling/P_19_SE002_PredictiveSpelling_Train03.edf",
    "bytes": 8057142,
-   "sha256": "a811438ae722dd8c4f9ec7e8912593481f75eb15f069421fec17f2b692490524"
+   "sha256": "a811438ae722dd8c4f9ec7e8912593481f75eb15f069421fec17f2b692490524",
+   "subject": "19"
   },
   {
    "file": "P_19/SE002/Train/PredictiveSpelling/P_19_SE002_PredictiveSpelling_Train04.edf",
    "bytes": 9136950,
-   "sha256": "b9a6872e835f3a4dc317d6928354aa2b2674d40f519e401cab22715b598ac841"
+   "sha256": "b9a6872e835f3a4dc317d6928354aa2b2674d40f519e401cab22715b598ac841",
+   "subject": "19"
   },
   {
    "file": "P_19/SE002/Train/PredictiveSpelling/P_19_SE002_PredictiveSpelling_Train05.edf",
    "bytes": 8057142,
-   "sha256": "85d59d1099428fcb9de545b1987e08b4c6d8e635b424f1251a3ddd834d9bc9f6"
+   "sha256": "85d59d1099428fcb9de545b1987e08b4c6d8e635b424f1251a3ddd834d9bc9f6",
+   "subject": "19"
   }
- ]
+ ],
+ "n_subjects_recorded": 19
 }
